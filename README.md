@@ -1,4 +1,6 @@
-My first react exercise
+# Task App
+
+## React exercise
 
 1. set up project
 2. organize components
